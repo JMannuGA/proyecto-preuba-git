@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Linea original del archivo" 
+=======
+"Linea modificada desed rama-feature" 
+>>>>>>> rama-feature
