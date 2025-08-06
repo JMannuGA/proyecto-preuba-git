@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Contenido diferente desde la rama master" 
+=======
+"Este es un archivo de pruiebas desde rama-cambios" 
+>>>>>>> rama-cambios
